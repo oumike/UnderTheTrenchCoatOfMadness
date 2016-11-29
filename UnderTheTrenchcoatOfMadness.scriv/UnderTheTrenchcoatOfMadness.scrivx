@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-SK1VN8I" Modified="2016-11-29 16:49:24 -0500" ModID="8ACDFC85-5ADC-4AB8-A4C9-73F0622A3CAE">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-SK1VN8I" Modified="2016-11-29 16:52:43 -0500" ModID="C8354037-DD33-4BCB-A39C-78DC7A1953BF">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2014-06-12 18:17:20 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -44,7 +44,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 12:33:03 -0500" Modified="2016-11-29 15:58:21 -0500" Type="Text">
+                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 12:33:03 -0500" Modified="2016-11-29 16:52:40 -0500" Type="Text">
                             <Title>Chapter 1 - Noir as Night</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
@@ -52,7 +52,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1992,0</TextSelection>
+                                <TextSelection>1566,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -61,13 +61,13 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="41" UUID="D5C9111C-01E7-4893-8A1F-88B9AC980991" Created="2016-11-29 16:23:28 -0500" Modified="2016-11-29 16:49:17 -0500" Type="Text">
+                        <BinderItem ID="41" UUID="D5C9111C-01E7-4893-8A1F-88B9AC980991" Created="2016-11-29 16:23:28 -0500" Modified="2016-11-29 16:52:30 -0500" Type="Text">
                             <Title>Chapter 2 - The Wannabe</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7102,0</TextSelection>
+                                <TextSelection>5312,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
