@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-SK1VN8I" Modified="2016-11-29 15:58:29 -0500" ModID="1B46B57F-69DB-425B-B8CD-8F5131C5D779">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-SK1VN8I" Modified="2016-11-29 16:49:24 -0500" ModID="8ACDFC85-5ADC-4AB8-A4C9-73F0622A3CAE">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2014-06-12 18:17:20 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -60,6 +60,16 @@
                                     <FreeformMode>Yes</FreeformMode>
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="41" UUID="D5C9111C-01E7-4893-8A1F-88B9AC980991" Created="2016-11-29 16:23:28 -0500" Modified="2016-11-29 16:49:17 -0500" Type="Text">
+                            <Title>Chapter 2 - The Wannabe</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7102,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -418,7 +428,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="883" Characters="4871" Date="2016-11-29 15:46:44 -0500"/>
+        <PreviousSession Words="2218" Characters="12240" Date="2016-11-29 15:46:44 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
