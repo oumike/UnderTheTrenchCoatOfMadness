@@ -5,7 +5,91 @@
             <Title>Chapter</Title>
         </Document>
         <Document ID="6">
-            <Title>Scene</Title>
+            <Title>Chapter 1 - Noir as Night</Title>
+            <Text>It was a weird night. The kind of night where the one remaining street light outside my ofﬁce puckered out like a dying star. The street dark as tar, lonely and empty like my sex life. Somehow she still found the door to my ofﬁce. Tall blond, long dark trench-coat. The word “trouble” written in dark ink on her forehead.
+
+“Are you Sam?” she spoke, somewhat slowly.
+
+“Who else? Is my name still on the door?” I replied, not enjoying the foreplay. I put my lit cigarette in the full ash tray.
+
+“I need you…” she stops and coughs, bringing the dark brown handkerchief to her sultry lips then continues “you…I need your help. I’ve forgotten who I am.”
+
+“Missy, is your name ‘trouble’”?
+
+She seemed unaware of the label she wore. “My name is Melleville”, she said.
+
+“Hello Melleville, case solved. That’ll be ﬁve hundred dollars.”
+
+“I don’t have any money.”
+
+“Oh shit, did I leave the ‘works for free’ sign on the door again?”
+
+“No…”
+
+“Out! No freebies, even for dames.”
+
+“But, I’m in trouble!” she starts crying, turning around quickly.
+
+“You mean you are trou-”
+
+Just as quickly as she came into my life, she was gone. Sobbing and slamming the door as her perfume brushed through my nostrils. Strawberries, wafting around like an insult. I’ve been doing this too long, 20 years ago I would’ve chased her down and gave her some comfort, coffee, a place on my couch. Instead, I do nothing.
+
+RING RING RING
+
+Picking up the receiver while relighting my cigarette. “Hello!”
+
+A raspy and unfamiliar voice replies “Johnny needs a cracker.” CLICK
+
+I hate this fucking town.
+
+—
+ 
+It’s still raining the next morning as I struggle off the beaten up old couch. Another night getting too drunk, I shamble over to the rusted liquor cabinet and pop the lid off my vat of Vitamin C. Another pill another day. That’s when I notice the envelope on the ﬂoor. She must’ve dropped it last night in her hurry. Fuck, I’m going to have to open it.
+
+Bending over slowly, my bloated gut playing keep away with the floor, I grab the envelope and toss it on my desk. Donuts first, then casework. Like any morning it starts out with a dull ache. I need them, I know it’ll get worse later, but the needing starts now. I hurry out the door, swinging my raincoat hastily over my shoulders. Boston creme…I need a Boston creme.
+
+Lou’s got the donut shop open, like usual, has the donut ready for me.  “Sammy, usual eh?”
+
+I toss a dollar and quarter onto the counter. “Yeah.”
+
+Lou grins wide “Just for you.”
+
+I stuff it down my throat before my tongue registers the moist goodness. Fine sugary texture brings delight to my being.
+
+“Are you gonna chew at least?”
+
+“Flarf ofgh”
+
+“Swallow then talk man. Jesus.” Lou takes a paper towel and wipes the saliva and crumbs off the counter. I order five more, eating them a bit slower. Savoring the taste.
+
+“Seriously, those things will kill you.”
+
+An hour later I’m halfway down McConnell street, neon lights ablaze even in the early hour. To my left Nutter’s Bar is closing up shop, shooing out drunk patrons like rodents. Passing by with barely a sideways glance I see the first graffiti a block down, it’s been there a few days now, light grey under lines nearly bleeding in with the blackish bricks. A few parakeets decorate the words drawn in light pink pastels.
+
+johnny styles
+
+This reminds me of the strange phone call from last night. Sugar coated brain makes the connection faster now.
+
+“Johnny needs a cracker.”
+
+Damn, why the fuck does he need a cracker? I keep walking when I notice something much worse than the graffiti. A pair of legs bent over the trash bin about ten feet away from the lame words. Crossing over the puddles on the street I get a closer look. That’s my dame alright.
+
+“Hey, Ms…Melon? You awake darling?”
+
+A rat scuttles away in response. Shit. Shit. Shit. Shit.
+
+“Hey Lady?” I feel the panic welling up in my throat with some donut bits.
+
+Oh shit, her nylons weren’t ripped like that last night. Oh shit. Oh shit. Oh shit.
+
+Five hours, thirteen cups of coffee and a bruised brain later I’m finally back in the office. The Po’s don’t get much from me ’cause I don’t know much. Add to that I’ve helped more than a few of them on cases and I’m golden. It isn’t until I get back that I remember the envelope, sitting there like an accusation on my desk. I unscrew a newly purchased bottle of Jack and take a long swig. Pop open the mini fridge, pull out last weeks Chinese and fall into the squeaker chair.
+
+SQUEEEEEEEEEEEEEEEEEK
+
+The chair complains as I lean over and grab Trouble’s envelope. Slice it open with the rusty pen knife I keep on my desk and watch two notes immediately fall out. Both notes folded into triangles.
+
+“Help” is written in perfect girl handwriting on the first. Well that’s a little on the nose. The second note is empty. It isn’t until the Jacks half empty that I notice the cracker crumbs all over my desk.
+</Text>
         </Document>
         <Document ID="8">
             <Title>Paperback Novel</Title>
@@ -92,39 +176,6 @@ Scrivener project templates are flexible and are not intended to restrict you to
         </Document>
         <Document ID="14">
             <Title>Manuscript Format</Title>
-        </Document>
-        <Document ID="15">
-            <Title>Title Page</Title>
-            <Synopsis>Title page to the manuscript.</Synopsis>
-            <Text>
-Your name
-Your address
-Your phone number
-Your e-mail address
-
-Your agent’s name
-Your agent’s address
-&lt;$wc100&gt; words.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;$PROJECTTITLE&gt;
-
-by &lt;$fullname&gt;</Text>
-            <Notes>This is the title page of the manuscript. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
-
-The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
         </Document>
         <Document ID="16">
             <Title>Dedication</Title>
@@ -251,6 +302,9 @@ Your dedication here.</Text>
         </Document>
         <Document ID="39">
             <Title>Sample Output</Title>
+        </Document>
+        <Document ID="40">
+            <Title>Title Page</Title>
         </Document>
     </Documents>
 </SearchIndexes>
