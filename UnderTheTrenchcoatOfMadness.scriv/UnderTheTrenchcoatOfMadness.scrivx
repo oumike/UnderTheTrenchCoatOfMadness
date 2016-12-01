@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-SK1VN8I" Modified="2016-11-30 22:05:42 -0500" ModID="89B5601F-3FFC-4E68-9286-F10DF399FDC2">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-SK1VN8I" Modified="2016-11-30 22:10:48 -0500" ModID="3B326287-0BD5-433C-91B7-DF392871D0F4">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2014-06-12 18:17:20 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -78,6 +78,16 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection Caret="2992">2985,7</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="43" UUID="F1C970B1-65E4-4BD2-923C-D3EAC812D3C7" Created="2016-11-30 22:09:39 -0500" Modified="2016-11-30 22:10:47 -0500" Type="Text">
+                            <Title>Chapter 4 - Lessons in Noir</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1046,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -438,7 +448,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="532" Characters="3002" Date="2016-11-30 22:00:17 -0500"/>
+        <PreviousSession Words="728" Characters="4095" Date="2016-11-30 22:00:17 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
