@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-SK1VN8I" Modified="2016-11-30 22:10:48 -0500" ModID="3B326287-0BD5-433C-91B7-DF392871D0F4">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-SK1VN8I" Modified="2016-12-14 21:48:20 -0500" ModID="5EB51FB8-B244-4154-A2BC-9FC821DDC8B6">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2014-06-12 18:17:20 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -44,15 +44,16 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 12:33:03 -0500" Modified="2016-11-29 17:14:44 -0500" Type="Text">
+                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 12:33:03 -0500" Modified="2016-12-14 21:47:39 -0500" Type="Text">
                             <Title>Chapter 1 - Noir as Night</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4870,0</TextSelection>
+                                <TextSelection>3770,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -61,7 +62,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="41" UUID="D5C9111C-01E7-4893-8A1F-88B9AC980991" Created="2016-11-29 16:23:28 -0500" Modified="2016-11-29 16:52:30 -0500" Type="Text">
+                        <BinderItem ID="41" UUID="D5C9111C-01E7-4893-8A1F-88B9AC980991" Created="2016-11-29 16:23:28 -0500" Modified="2016-12-14 21:47:52 -0500" Type="Text">
                             <Title>Chapter 2 - The Wannabe</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -71,7 +72,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" UUID="18C313E1-2620-4A1C-8E29-DFC80FC20E03" Created="2016-11-30 22:01:24 -0500" Modified="2016-11-30 22:05:34 -0500" Type="Text">
+                        <BinderItem ID="42" UUID="18C313E1-2620-4A1C-8E29-DFC80FC20E03" Created="2016-11-30 22:01:24 -0500" Modified="2016-12-14 21:48:02 -0500" Type="Text">
                             <Title>Chapter 3 - The Vagrant Fucker</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -81,7 +82,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="43" UUID="F1C970B1-65E4-4BD2-923C-D3EAC812D3C7" Created="2016-11-30 22:09:39 -0500" Modified="2016-11-30 22:10:47 -0500" Type="Text">
+                        <BinderItem ID="43" UUID="F1C970B1-65E4-4BD2-923C-D3EAC812D3C7" Created="2016-11-30 22:09:39 -0500" Modified="2016-12-14 21:48:13 -0500" Type="Text">
                             <Title>Chapter 4 - Lessons in Noir</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -109,6 +110,18 @@
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="44" UUID="52AFE969-E766-425F-9130-E50585136794" Created="2016-12-14 21:45:33 -0500" Modified="2016-12-14 21:47:12 -0500" Type="Text">
+                    <Title>Sam Ruskovitz</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>114,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="18" UUID="FFE23E67-34F2-4887-B83B-0EB393BF3CA5" Created="2010-10-19 08:06:37 -0500" Modified="2010-10-19 08:06:56 -0500" Type="Folder">
             <Title>Places</Title>
@@ -448,7 +461,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="728" Characters="4095" Date="2016-11-30 22:00:17 -0500"/>
+        <PreviousSession Words="22" Characters="114" Date="2016-12-14 21:45:22 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">

@@ -6,6 +6,7 @@
         </Document>
         <Document ID="6">
             <Title>Chapter 1 - Noir as Night</Title>
+            <Synopsis>Focusing on Sam, discovery of &quot;dame&quot;'s body.</Synopsis>
             <Text>It was a weird night. The kind of night where the one remaining street light outside my ofﬁce puckered out like a dying star. The street dark as tar, lonely and empty like my sex life. Somehow she still found the door to my ofﬁce. Tall blond, long dark trench-coat. The word “trouble” written in dark ink on her forehead.
 
 “Are you Sam?” she spoke, somewhat slowly.
@@ -308,6 +309,7 @@ Your dedication here.</Text>
         </Document>
         <Document ID="41">
             <Title>Chapter 2 - The Wannabe</Title>
+            <Synopsis>The wannabe is a boy and his sister.  </Synopsis>
             <Text>“Goddammit, I need those files!”
 
 “I’m sorry Mr. Plutoro, those files are in storage. it would take at least a week to get the paperwork together.” Or really, 5 minutes, but this is a business.
@@ -414,6 +416,7 @@ The rotten box though, discarded in a hurry is my guess. Few receipts and an unc
         </Document>
         <Document ID="42">
             <Title>Chapter 3 - The Vagrant Fucker</Title>
+            <Synopsis>Things happen to move the story forward.  </Synopsis>
             <Text>Mr. Plutoro was not pleased. He’s on my phone right now living up to his very special name “Angry Yelling Man”. He’s angry and yelling.
 
 “Those files are supposed to be backed up every mother fucking night!”
@@ -501,6 +504,8 @@ Polly ducks her head into her tea and shrugs, slurping, obviously not wanting to
         </Document>
         <Document ID="43">
             <Title>Chapter 4 - Lessons in Noir</Title>
+            <Synopsis>Sam meets the wannabe's and maybe regrets it.
+</Synopsis>
             <Text>“So the donuts, why does every class start with me eating donuts?”
 
 Sam waddled back over to his desk, slumping on the squeaky chair.
@@ -529,6 +534,13 @@ I’d been at this for three days now. I’m pretty certain Sam is crazy but I a
 
 I’m pretty sure he’s crazy and I’m also crazy.
 </Text>
+        </Document>
+        <Document ID="44">
+            <Title>Sam Ruskovitz</Title>
+            <Synopsis>
+Noir Detective, wears the trenchcoat of madness.
+</Synopsis>
+            <Text>This character is one of the main people in the novel.  He is a detective and “noir” follows him wherever he goes.</Text>
         </Document>
     </Documents>
 </SearchIndexes>
